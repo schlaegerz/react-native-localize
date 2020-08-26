@@ -1,6 +1,6 @@
 // @flow
 
-import { getLocales, handlers } from "./module";
+import { getLocales, handlers } from "./module.web";
 
 import type {
   Calendar,
